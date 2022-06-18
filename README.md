@@ -9,17 +9,17 @@
 <img src="./assets/lap.gif" align="right"/>
 <!-- </p> -->
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Ansible
 - 📫 How to reach me: rananagy142@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rananagy&theme=dark)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rana-nagy-1091b21ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-nagy-1091b21ba" height="30" width="40" /></a>
+</p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rananagy&theme=dracula)
 
 
-# **Skill Set**
-
-These are some of the major technologies that I use or have worked on in the past:
-
+# **Skills**
 
 ## **DevOps Tools**
 
@@ -30,6 +30,8 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"> 
 <img title="Jenkins" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png"> 
 <img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"> 
+<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"> 
+<img title="ubuntu" alt="ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png"> 
 
 <p/>
 
