@@ -11,10 +11,6 @@
 
 - 📫 How to reach me: rananagy142@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rana-nagy-1091b21ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-nagy-1091b21ba" height="30" width="40" /></a>
-</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rananagy&theme=dracula)
 
@@ -35,6 +31,10 @@
 
 <p/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rana-nagy-1091b21ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-nagy-1091b21ba" height="30" width="40" /></a>
+</p>
 
 <hr/>
 <hr/>
